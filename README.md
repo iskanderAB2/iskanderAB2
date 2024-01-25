@@ -1,5 +1,5 @@
 # Hello, I'm Iskander ABBASSI 🚀
-[Personal Github account](https://github.com/iskanderab)
+[Another account (The real one)](https://github.com/iskanderab)
 
 👋 Welcome to my GitHub profile! I'm a technology lover and a motivated individual passionate about software development, robotics, and creating innovative solutions. Currently, I'm working for Finanztip, a company dedicated to providing financial advice and solutions.
 
