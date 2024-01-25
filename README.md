@@ -4,11 +4,11 @@
 
 ## GitHub Stats
 
-[![GitHub followers](https://img.shields.io/github/followers/iskanderAB?label=Followers&style=social)](https://github.com/iskanderAB)
-[![GitHub stars](https://img.shields.io/github/stars/iskanderab?style=social)](https://github.com/iskanderab)
+[![GitHub followers](https://img.shields.io/github/followers/iskanderab2?label=Followers&style=social)](https://github.com/iskanderab2)
+[![GitHub stars](https://img.shields.io/github/stars/iskanderab2?style=social)](https://github.com/iskanderab2)
 
 <div>
-  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=iskanderab&count_private=true&theme=highcontrast&show_icons=true" /></span>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=iskanderab2&count_private=true&theme=highcontrast&show_icons=true" /></span>
 </div>
   
 ### Tech Stack 👨🏻‍💻
